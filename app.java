@@ -10,9 +10,9 @@ public class EqualMatrix
                         {8, 4, 6},    
                         {4, 5, 7}    
      }    
-               
-            if(sudheer)
-            System.out.println("Matrices are equal");    
+                
+            if(samantha)    
+                System.out.println("Matrices are equal");    
             else    
                 System.out.println("Matrices are not equal");    
         }    
