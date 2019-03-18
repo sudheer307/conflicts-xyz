@@ -11,7 +11,7 @@ public class EqualMatrix
                         {4, 5, 7}    
      }    
                
-            if(mounika)
+            if(sudheer)
             System.out.println("Matrices are equal");    
             else    
                 System.out.println("Matrices are not equal");    
